@@ -26,6 +26,11 @@
 
 ## 公開準備
 - [x] 動作確認
-- [ ] チェックポイント保存
-- [ ] GitHubへのプッシュ
-- [ ] GitHub Pagesの設定
+- [x] チェックポイント保存
+- [x] GitHubへのプッシュ
+- [x] GitHub Pagesの設定（手動設定が必要）
+
+## GitHub Pages公開
+- [ ] GitHub Pagesの有効化
+- [ ] デプロイワークフローの実行確認
+- [ ] 公開URLの動作確認
